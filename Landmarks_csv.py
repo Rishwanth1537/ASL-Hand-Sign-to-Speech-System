@@ -6,7 +6,7 @@ import mediapipe as mp
 from tqdm import tqdm
 
 # --- PATHS ---
-DATASET_PATH = "asl_alphabet_train"   # Folder with subfolders A/, B/, ...
+DATASET_PATH = "path of the asl_alphabet_train"   
 CSV_OUT = "asl_landmarks.csv"
 
 # --- MediaPipe Setup ---
