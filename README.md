@@ -74,6 +74,7 @@ Download it here:
 pip install -U tensorflow==2.20.0 numpy pandas==2.2.2 scikit-learn
 pip install mediapipe opencv-python keyboard pyttsx3 python-dotenv openai
 ```
+- By implementing landmarks_csv.py file you will get asl_landmarks.csv dataset then import it to the ASL_NN.py
 - you will get asl_landmark_model_new.keras and label_encoder_new.pkl after implementing ASL_NN.py
 ---
 
