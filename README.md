@@ -66,6 +66,7 @@ Training includes:
 pip install -U tensorflow==2.20.0 numpy pandas==2.2.2 scikit-learn
 pip install mediapipe opencv-python keyboard pyttsx3 python-dotenv openai
 ```
+- you will get asl_landmark_model_new.keras and label_encoder_new.pkl after implementing ASL_NN.py
 ---
 
 ## 🎯 Future Improvements
