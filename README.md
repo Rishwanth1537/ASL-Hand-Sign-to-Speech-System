@@ -59,6 +59,14 @@ Training includes:
 | Q          | Quit |
 
 ---
+## Dataset
+
+The dataset is not included in this repository due to size limitations.
+
+Download it here:
+[(https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data)]
+
+---
 
 ## ⚙️ Installation
 
