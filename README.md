@@ -65,7 +65,7 @@ Training includes:
 ```bash
 pip install -U tensorflow==2.20.0 numpy pandas==2.2.2 scikit-learn
 pip install mediapipe opencv-python keyboard pyttsx3 python-dotenv openai
-
+```
 ---
 
 ## 🎯 Future Improvements
